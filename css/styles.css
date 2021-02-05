@@ -1,0 +1,191 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: #f4f6f9;
+  padding: 40px;
+}
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 1200px;
+  background: white;
+  display: flex;
+  box-shadow: 10px 10px 10px #e3e5e7;
+}
+
+.sidebar {
+  background: #1e2939;
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.my-photo {
+  width: 370px;
+}
+
+.about-me {
+  padding-left: 90px;
+  padding-top: 110px;
+  padding-right: 90px;
+  padding-bottom: 110px;
+}
+
+.contacts {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 60px;
+}
+.contacts-title {
+  padding-bottom: 20px;
+  color: #ffffff;
+  font-size: 22px;
+  line-height: 24px;
+  font-weight: 700;
+}
+.contacts-link {
+  color: #525b67;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.contacts-leters {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-right: 10px;
+}
+.tech-skills {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 55px;
+}
+
+.tech-skills-title {
+  margin-bottom: 20px;
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.tskills-item {
+  color: #f2670b;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 15px;
+}
+
+.tskills-text {
+  color: #e1e2e5;
+}
+
+.vacansy {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.name {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 89px;
+  padding-top: 25px;
+}
+
+.info {
+  width: 415px;
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  padding-top: 25px;
+}
+
+.ptitle {
+  padding-top: 65px;
+  padding-bottom: 15px;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.pitem {
+  margin-left: 15px;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.pitem2 {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.comname {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.comnamecol {
+  color: #ff6b08;
+}
+
+.comname2 {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 25px;
+}
+
+.timework {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: #a8a8a8;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.border {
+  color: black;
+}
+
+.resp {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 15px;
+  width: 535px;
+}
+
+.educ {
+  margin-top: 55px;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.univ {
+  margin-top: 20px;
+  color: #ff6b08;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.spec {
+  margin-top: 15px;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
