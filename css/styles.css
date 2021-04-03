@@ -35,6 +35,13 @@ body {
   padding-bottom: 110px;
 }
 
+.about-me p {
+  margin-bottom: 20px;
+}
+.about-me p:last-child {
+  margin-bottom: 0px;
+}
+
 .contacts {
   margin-left: 40px;
   margin-right: 40px;
